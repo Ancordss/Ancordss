@@ -7,8 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ancordss)<!-- add the link -->
 
 
-Hi there, I'm **james Maradiaga** a **open source lover** and a **systems engineering student** 🚀 from Guatemala. 
-Currently, I'm a full time ✏️ student and 🔎 looking for do something intersting.
+Hi there, I'm james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full time ✏️ student and 🔎 looking for doing something interesting.
   
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
