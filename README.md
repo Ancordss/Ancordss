@@ -18,7 +18,7 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 
 ### 💻 I'm working on
 - My portfolio website.
-- Discord Bot
+- Discord Bot ✔️
 
 ### 🌱 Goals for 2022
 - Complete 30DayOfGo.
