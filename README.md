@@ -19,8 +19,8 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 
 ### 💻 I'm working on
 - Discord Bot ✔️
-- Virtual assistant
 - Script DotMK
+- Virtual assistant
 - My portfolio website.
 
 ### 🌱 Goals for 2022
