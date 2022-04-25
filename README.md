@@ -13,9 +13,9 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
   
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
+- SysAdmin ✔️
 - Go
 - lua
-- SysAdmin ✔️
 
 ### 💻 I'm working on
 - Discord Bot ✔️
