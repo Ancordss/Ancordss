@@ -14,11 +14,14 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
 - Go
+- lua
 - SysAdmin ✔️
 
 ### 💻 I'm working on
-- My portfolio website.
 - Discord Bot ✔️
+- Virtual assistant
+- Script DotMK
+- My portfolio website.
 
 ### 🌱 Goals for 2022
 - Complete 30DayOfGo.
