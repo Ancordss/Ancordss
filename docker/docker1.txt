@@ -1,0 +1,5 @@
+las imagenes se generan con
+DOCKERFILES
+
+podemos generarlas nosotros o bajar una que ya ah sido creada
+y agregar algo 

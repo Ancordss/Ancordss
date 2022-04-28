@@ -1,0 +1,27 @@
+comandos que mas se usan.
+
+
+docker run "nombre de imagen" [descarga y corre la imagen]
+
+docker pull "nombre imagen" [solo descarga]
+
+docker images [muestra todas las imagenes]| head 
+
+docker ps [muestra los contenedores que estan corriendo]
+
+docker ps -a [muestra los que se han corrido]
+
+docker start "ID" [corre la imagen en segundo plano]
+
+docker logs
+nota -> {la aplicacion tiene que montar los log en salida standar}
+
+docker exec -it "id" sh [ejecuta un comando dentro de un contenedor que ya esta corriendo]
+
+docker stop "id" [detiene en contenedor]
+
+docker run -d "nombre imagen" [devuelve la id y corre en background]
+
+
+
+
