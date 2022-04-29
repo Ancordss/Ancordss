@@ -1,3 +1,34 @@
+<!-- Inspiration: https://github.com/owl4ce -->
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+            Hello There
+        <br>
+            I'm Ancordss, a Student, and Linux enthusiast.
+            </b>
+        <br>
+        <br>
+          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=9d2b22&center=true&width=410&height=45&lines=In+theory,+theory+and+practice%20+are+the+same;+in+practice,+it+is+not.">
+        <br>
+            <b>
+            ~ James Maradiaga ~
+            </b>
+        <br>
+      </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<details align="center">
+<summary><samp>extend</samp></summary>
+
+<h2></h2><br>
+
+
 ### Hey 👋, I'm Ancordss
 
 
