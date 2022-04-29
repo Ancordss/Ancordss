@@ -84,7 +84,7 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>      
 <code><img align="center" height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
 <h2></h2><br>
-<br/>
+
 </details>
 </p>
 <!-- Github Stats -->
