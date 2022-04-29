@@ -35,7 +35,7 @@
     [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maradiaga.l.james@gmail.com)
     [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ancordss)<!-- add the link -->
     <h2></h2><br>
-    </samp>
+  </samp>
 </p>
 Hi there, I'm james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full time ✏️ student and 🔎 looking for doing something interesting.
   
@@ -43,12 +43,13 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
   
 <!-- Create a tabular data for blog posts-->
 <p align="center">
-  <samp>
-    ### ✔️ I'm currently learning        
-      - SysAdmin ✔️
-      - Go
-      - lua
-
+### I'm currently learning
+</p>
+<p align="center">
+- SysAdmin ✔️
+- Go
+- lua
+</p>
     ### 💻 I'm working on
       - Discord Bot ✔️
       - Script DotMK
