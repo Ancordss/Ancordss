@@ -52,7 +52,8 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 </p>  
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 <!-- Create a tabular data for blog posts-->
-<iframe align="right" src="https://giphy.com/embed/3osxY9kuM2NGUfvThe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-alphabet-font-3osxY9kuM2NGUfvThe">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/6f479b6bf7e9e1c38aa1334f8478e5934df71b5ace3d61ad668cbdbea0c602fa/687474703a2f2f7777322e73696e61696d672e636e2f736d616c6c2f613639356163646567773166336465797a7063673367323034733034783438762e676966" /> 
+
 ### I'm currently learning
 - SysAdmin ✔️
 - Go
