@@ -1,0 +1,28 @@
+
+Integración continua (IC) / Entrega continua (EC)
+Integración continua
+
+La integración continua (IC) tiene como objetivo principal preparar y servir cuanto antes una release del Software de forma rápida, sencilla y ágil.
+Entrega continua
+
+La entrega continua (EC) tiene como objetivo proporcionar una manera ágil y fiable de poder entregar o desplegar los nuevos cambios a los clientes.
+Pipeline
+
+Un pipeline en el contexto de IC/EC, consiste en una serie de pasos que deben ejecutarse para distribuir la versión nueva de un sistema de software.
+
+En resumen con uso de pipelines podemos:
+
+    Definir de forma sencilla:
+        Parámetros de entrada
+        Variables de entorno y credenciales
+        Opciones como un timeout, retry o descartar builds
+    Enviar mensajes o hacer alguna acción post-build dependiendo del resultado de la ejecución del pipeline.
+    Saltar alguna fase dependiendo del entorno, la rama que ejecutemos, etc.
+
+Delivery Pipeline
+
+Delivery pipeline es el proceso de tomar código fuente del control de versiones y ponerlo a disposición de los usuarios de su aplicación de forma automatizada. Los componentes más comunes de un delivery pipeline son:
+
+    Construcción automatizada (Integración continua)
+    Automatización de pruebas
+    Implementación automatizada (Entrega continua)
