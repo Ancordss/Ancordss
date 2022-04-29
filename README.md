@@ -54,23 +54,23 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 <!-- Create a tabular data for blog posts-->
 
 
-### I'm currently learning
+### > I'm currently learning
 - SysAdmin ✔️
 - Go
 - lua
 
-### 💻 I'm working only 
+### > I'm working on 
 - Discord Bot ✔️
 - Script DotMK
 - Virtual assistant
 - My portfolio website.
 
-### 🌱 Goals for 2022
+### > Goals for 2022
 - Complete 30DayOfGo.
 - Build 10+ projects.
 - Contribute to Open Source.
 
-### 💭 Ask me about
+### > Ask me about
 - Videogames :shipit:
 - Programming 📝
 - and anything...
