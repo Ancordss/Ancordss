@@ -37,46 +37,42 @@
     <h2></h2><br>
   </samp>
 </p>
-Hi there, I'm james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full time ✏️ student and 🔎 looking for doing something interesting.
+##Hi there, I'm james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full time ✏️ student and 🔎 looking for doing something interesting.
   
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
   
 <!-- Create a tabular data for blog posts-->
-<p align="center">
+
 ### I'm currently learning
-</p>
-<p align="center">
 - SysAdmin ✔️
 - Go
 - lua
-</p>
-    ### 💻 I'm working on
-      - Discord Bot ✔️
-      - Script DotMK
-      - Virtual assistant
-      - My portfolio website.
 
-    ### 🌱 Goals for 2022
-      - Complete 30DayOfGo.
-      - Build 10+ projects.
-      - Contribute to Open Source.
+### 💻 I'm working only 
+- Discord Bot ✔️
+- Script DotMK
+- Virtual assistant
+- My portfolio website.
 
-    ### 💭 Ask me about
-      - Videogames :shipit:
-      - Programming 📝
-      - and anything...
+### 🌱 Goals for 2022
+- Complete 30DayOfGo.
+- Build 10+ projects.
+- Contribute to Open Source.
+
+### 💭 Ask me about
+- Videogames :shipit:
+- Programming 📝
+- and anything...
   
-    ### 🗣 Languages and Tools
-      <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-      <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-      <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-      <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-      <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-      <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-      <code><img align="center" height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
-  </samp>
-</p>
-
+### 🗣 Languages and Tools
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>      
+<code><img align="center" height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
+  
 <!-- Github Stats -->
 <p align="center">
     <samp>
