@@ -30,14 +30,24 @@
 
 <p aling="center">
   <samp>
+   <a href="https://github.com/Ancordss" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/james-maradiaga-891549220/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a></a>
+   <a href="mailto:maradiaga.l.james@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a></a>
+   <a href="https://twitter.com/ancordss" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a></a>
+  <!--
   [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Ancordss)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-maradiaga-891549220/)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maradiaga.l.james@gmail.com)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ancordss)<!-- add the link -->
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ancordss) add the link -->
   <h2></h2><br>
   </samp>
 </p>
-##Hi there, I'm james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full time ✏️ student and 🔎 looking for doing something interesting.
+
+<p>
+<details>
+<summary>About Me</summary>
+<br/>
+## Hi there, I'm james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full time ✏️ student and 🔎 looking for doing something interesting.
   
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
   
@@ -72,7 +82,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>      
 <code><img align="center" height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
-  
+<br/>
+</details>
+</p>
 <!-- Github Stats -->
 <p align="center">
     <samp>
