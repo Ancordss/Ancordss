@@ -31,7 +31,7 @@
 <p aling="center">
   <samp>
    <a href="https://github.com/Ancordss" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white"></a>
-   <a href="www.linkedin.com/in/jamesmaradiaga" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a></a>
+   <a href="https://www.linkedin.com/in/jamesmaradiaga" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a></a>
    <a href="mailto:maradiaga.l.james@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a></a>
    <a href="https://twitter.com/ancordss" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a></a>
   <!--
