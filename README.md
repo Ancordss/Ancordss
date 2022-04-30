@@ -83,7 +83,7 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>    
-<code><img align="center" height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_128x128.png"></code>
 <code><img align="center" height="25" src="https://camo.githubusercontent.com/ca156fae6f17c9d7cafb8405da6793562780d051199be9460fc52d0f46ce7cdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572"></code>
 <code><img align="center" height="25" src="https://camo.githubusercontent.com/387e1ca60490aaf48f52dc237635797fd65f4a83013e45bf963ef807ec04a3dd/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d41746f6d253230456469746f722d3161616635643f7374796c653d666c61742d737175617265266c6f676f3d61746f6d"></code>
 <h1></h1><br>
