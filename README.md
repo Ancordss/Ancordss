@@ -76,20 +76,21 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 - and anything...
   
 ### 🗣 Languages and Tools
-<code><img height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/nginx.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Python-Dark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Nginx.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/terminal.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/linux.png"></code>    
-<code><img height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/html5.png"></code>
-<code><img align="center" height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/atom.png"></code>
-<code><img align="center" height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/jenkins.png"></code>
-<code><img align="center" height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/heroku.png"></code>
-<code><img align="center" height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/docker.png"></code>
-<code><img align="center" height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/vim.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/MySQL-Dark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Git.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Bash-Dark.svg"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Linux-Dark.svg"></code>    
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/HTML.svg"></code>
+<code><img align="center" height="25" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/atom.png"></code><code><img align="center" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Wordpress.svg"></code>
+<code><img align="center" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Jenkins-Dark.svg"></code>
+<code><img align="center" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Heroku.svg"></code>
+<code><img align="center" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Docker.svg"></code>
+<code><img align="center" height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/VIM-Dark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Markdown-Dark.svg"></code>
 <h1></h1><br>
 </details>
 </p>
