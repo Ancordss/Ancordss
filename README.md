@@ -11,7 +11,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=9d2b22&center=true&width=410&height=45&lines=In+theory,+theory+and+practice%20+are+the+same;+in+practice,+it+is+not.">
+          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=9d2b22&center=true&width=410&height=45&lines=Hope+is+not+a+strategy.">
         <br>
             <b>
             ~ James Maradiaga ~
@@ -56,7 +56,7 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 
 ### > I'm currently learning
 - SysAdmin ✔️
-- Go
+- Go ✔️
 - lua
 
 ### > I'm working on 
@@ -66,8 +66,8 @@ Hi there, I'm james Maradiaga an open source lover and a systems engineering stu
 - My portfolio website.
 
 ### > Goals for 2022
-- Complete 30DayOfGo.
-- Build 10+ projects.
+- Complete 30DayOfGo. ✔️
+- Build 10+ projects. 
 - Contribute to Open Source.
 
 ### > Ask me about
