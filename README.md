@@ -24,7 +24,7 @@
 <br>
 
 <details align="center">
-<summary><samp>extend</samp></summary>
+<summary><samp>extend <- (click here)</samp></summary>
 
 <h2></h2><br>
 
