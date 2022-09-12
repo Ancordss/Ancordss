@@ -7,7 +7,7 @@
             <b>
             Hello There
         <br>
-            I'm Ancordss, a Student, and Linux enthusiast.
+            I'm Ancordss, a Jr DevOps, Studen, and Linux enthusiast.
             </b>
         <br>
         <br>
