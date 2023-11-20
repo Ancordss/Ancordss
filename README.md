@@ -7,7 +7,7 @@
             <b>
             Hello There
         <br>
-            I'm Ancordss, a Jr DevOps, Studen, and Linux enthusiast.
+            I'm Ancordss, a Jr DevOps, Student, and Linux enthusiast.
             </b>
         <br>
         <br>
@@ -48,25 +48,25 @@
 <summary>About Me</summary>
 <br/>
 <p aling="center">
-Hi there, I'm james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full time ✏️ student and 🔎 looking for doing something interesting.
+Hi there, I'm James Maradiaga, an open-source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full-time JR DevOps and a night student 🔎 looking for something interesting to do.
 </p>  
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 <!-- Create a tabular data for blog posts-->
 
 
 ### > I'm currently learning
-- SysAdmin ✔️
-- Go ✔️
-- lua
+- Kubernetes: Management, Security
+- Data Pipeline
+- Natural Language Processing (NLP)
 
 ### > I'm working on 
-- Discord Bot ✔️
-- Script DotMK ✔️
-- Virtual assistant
-- My portfolio website.
+- Go web app
+- Small DevOps tutorials
+- GPT Playground
+- Obtain AWS certification.
 
-### > Goals for 2022
-- Complete 30DayOfGo. ✔️
+### > Goals for 2024
+- Obtain AWS certification.
 - Build 10+ projects. 
 - Contribute to Open Source.
 
