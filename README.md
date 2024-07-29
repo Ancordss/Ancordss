@@ -7,7 +7,7 @@
             <b>
             Hello There
         <br>
-            I'm Ancordss, a Jr DevOps, Student, and Linux enthusiast.
+            I'm Ancordss, DevOps, Student, and Linux enthusiast.
             </b>
         <br>
         <br>
@@ -48,7 +48,7 @@
 <summary>About Me</summary>
 <br/>
 <p aling="center">
-Hi there, I'm James Maradiaga, an open-source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full-time JR DevOps and a night student 🔎 looking for something interesting to do.
+Hi there, I'm James Maradiaga, an open-source lover and a systems engineering student 🚀 from Guatemala. Currently, I'm a full-time DevOps and a night student 🔎 looking for something interesting to do.
 </p>  
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 <!-- Create a tabular data for blog posts-->
